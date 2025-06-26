@@ -11,4 +11,4 @@
 ## Запуск приложения
 
 Для запуска собранного приложения требуется выполнить команду:
-> java -jar .\build\libs\image-editor-1.0-SNAPSHOT.jar    
+> java -jar .\build\libs\image-editor-master-1.0-SNAPSHOT.jar    
